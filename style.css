@@ -1,0 +1,90 @@
+.sub{
+        display:flex;
+        justify-content: flex-start;
+        background-color: #2d3c43;
+        height: 60px;
+        padding-top: 20px;
+        margin-top: 0px;
+        align-content: baseline;
+
+    }
+i{
+        width: 600px;
+        font-size: 35px;
+        color:white;
+        margin-left: 25px;
+        margin-top: 5px;
+    }
+.dummy{
+        display: flex;
+        justify-content: flex-start;
+        background-color: #CCD1D1;
+        height: 580px;
+    }
+.box{
+        display: flex;
+        margin-top: 70px;
+
+    }
+.bigbox{
+        width: 270px;
+        height: 450px;
+        background-color:rgb(57, 57, 57);
+        margin-top: 50px;
+        margin-left: 100px;
+        margin-right: 80px;
+        border-radius: 20px;
+    }
+.text{
+        width: 500px;
+        height: 23px;
+        background-color: rgb(57, 57, 57);
+        border-radius: 7px;
+        margin-top: 30px;
+        margin-left: 80px;
+        font-size: 15px;
+        padding: 5px;
+        padding-bottom: 10px;
+        letter-spacing: 2px;
+        font-family: 'Poppins', sans-serif;
+        text-transform: capitalize;
+    }
+    .free{
+        padding-left: 18px;
+        padding-top: 10px;
+        color: rgb(123, 125, 129);
+    }
+.hub{
+        font-size: 20px;
+        margin-top: 10px;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+        font-family: 'Poppins', sans-serif;
+    }
+ .github1{
+        color:white;
+        padding-top: 10px;
+        margin-top: 7px;
+        font-size: 20px;
+        letter-spacing: 3px;
+        
+
+    }
+ .search{
+    margin-top: 30px;
+    margin-left: 20px;
+ }
+ .smallbox{
+    height: 110px;
+    width: 160px;
+    background-color: rgb(57, 57, 57);
+    margin-right: 110px;
+    border-radius: 10px; 
+}
+.lengthbox{
+    width: 700px;
+    height: 150px;
+    background-color: rgb(57, 57, 57);
+    margin-top: 60px;
+    border-radius: 10px;
+}
